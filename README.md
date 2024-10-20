@@ -22,7 +22,7 @@ https://github.com/AichaSidiya/404DataNotFound.git
 ```
 
 ## Acknowledgement 
-1. [Datasett](https://www.kaggle.com/code/zzettrkalpakbal/medical-chat-bot/input)
+1. [Dataset](https://www.kaggle.com/code/zzettrkalpakbal/medical-chat-bot/input)
 
 
 
